@@ -5,3 +5,13 @@
  line-height: 1.5;
  text-align: center;
 }
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+#img-caption p {
+    font-size: 16px;
+}
